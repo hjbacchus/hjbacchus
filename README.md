@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...graphics, music, & football
 - 🌱 I’m currently learning ...patience
 - 💞️ I’m looking to collaborate on ...making things to make music with
-- 📫 How to reach me ...
+- 📫 How to reach me ...Twitter: @hjbacchus
 
 <!---
 hjbacchus/hjbacchus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
